@@ -33,7 +33,7 @@ To start using PredMat, follow these steps:
 ```
 PredMat/
 ├── APP/         # Compiled executable files for PredMat
-├── Database/    # Datasets used for training and testing
+├── Databaset/    # Datasets used for training and testing
 ├── Code/        # Source code for the project
 ├── Models/      # Saved machine learning models
 ├── LICENSE.md   # License details for this project
