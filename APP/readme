@@ -1,0 +1,26 @@
+PredMat: Material Property Prediction Tool
+PredMat is a machine learning tool designed to predict material properties based on chemical composition and manufacturing processes. It helps users optimize material selection and design by providing data-driven insights into how different factors affect material performance.
+
+Quick Start Guide
+1. Download the Software
+Download the compressed file APP.zip from the repository.
+
+2. Unzip and Run PredMat
+Unzip the APP.zip file.
+
+Navigate to the dist folder.
+
+Run the PredMat.exe executable.
+
+Important: Always keep all files together in the same directory to ensure proper functionality.
+
+3. Access Additional Resources
+Datasets: Located in the Database folder.
+
+Source Code: Available in the Code folder.
+
+Pre-Trained Models: Stored in the Models folder.
+
+> [!WARNING]
+> **Model Loading Time:**  
+> PredMat may take a few seconds to load the pre-trained models during startup. Please be patient—this is expected behavior since the models are loaded before making predictions
